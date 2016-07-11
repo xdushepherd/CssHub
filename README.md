@@ -8,4 +8,5 @@
 1. [loading-animation-from-CodePen](https://github.com/xdushepherd/CssHub/tree/master/loading-animation "loading-animation from CodePen") 
 
     > [CodePen项目地址](http://codepen.io/xdushepherd/pen/WxkLQj)
-2. [活捉百度面试题目一只]() 
+2. [活捉百度面试题目一只](https://github.com/xdushepherd/CssHub/tree/master/quiz-baidu) 
+3. [loader](https://github.com/xdushepherd/CssHub/tree/master/loader)
